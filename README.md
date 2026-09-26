@@ -1,6 +1,7 @@
-# MysticGSI
+# EblanGSI
+На основе MysticGSI
 
-Builds a GSI (Generic System Image) from stock Android firmware.
+Билдит a GSI епта
 
 Supported firmware: full OTA zips (`payload.bin`), fastboot packages and
 `super.img`, sparse images, `system.new.dat`, Samsung tars, Huawei
