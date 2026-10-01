@@ -1,7 +1,7 @@
-# EblanGSI
+# UnusualMysticGSI
 На основе MysticGSI
 
-Билдит a GSI епта
+Билдит GSI. Мне лень что-то менять в этой хуйне. форк я сделал по приколу
 
 Supported firmware: full OTA zips (`payload.bin`), fastboot packages and
 `super.img`, sparse images, `system.new.dat`, Samsung tars, Huawei
