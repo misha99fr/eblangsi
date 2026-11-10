@@ -1,3 +1,0 @@
-# Forcing ADB debuggable
-
-ro.force.debuggable=1

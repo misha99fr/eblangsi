@@ -1,7 +1,0 @@
-{
-    "system": {
-        "system/framework/services.jar": [
-            "knoxguard_utils_patch"
-        ]
-    }
-}
